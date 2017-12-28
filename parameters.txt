@@ -1,3 +1,4 @@
+DATA_ROOT=/Users/marinkacan/datasets/entity_relation/
 
 PROBLEM_NAME=ER_SMALL
 
